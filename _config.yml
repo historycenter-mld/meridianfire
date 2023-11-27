@@ -52,8 +52,8 @@ metadata: meridianfire
 #
 organization-name: Meridian Library District
 organization-link: https://www.mld.org/resources/history
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: /assets/img/mld-color.png
+organization-logo-nav: /assets/img/mld-logo.png
 
 ##########
 # GOOGLE SERVICES [optional!]
