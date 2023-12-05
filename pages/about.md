@@ -10,9 +10,9 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col010_00108" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="Early Meridian Fire Department History;About the About Page" %}
 
-## About CollectionBuilder CSV
+## Early Meridian Fire Department History
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
